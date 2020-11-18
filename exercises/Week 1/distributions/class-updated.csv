@@ -1,0 +1,22 @@
+id,gender,instagram_followers,linkedin_con,phones_owned,apps_phone,os_phone,like_social,like_tech
+1,Male,0,790,6,51,Android,Neutral,Agree
+3,Female,680,174,6,122,iOS,Agree,Agree
+4,Female,150,100,7,65,iOS,Neutral,Agree
+6,Female,541,254,6,56,iOS,Neutral,Agree
+7,Female,829,755,5,73,iOS,Agree,Agree
+9,Female,530,62,7,125,iOS,Agree,Agree
+10,Female,120,50,1,10,iOS,Agree,Agree
+11,Female,32,84,2,38,Android,Neutral,Agree
+13,Female,478,33,6,81,Android,Neutral,Agree
+15,Male,102,256,8,97,Android,Disagree,Strongly agree
+17,Female,479,127,8,141,iOS,Agree,Strongly agree
+19,Female,0,201,7,80,Android,Disagree,Agree
+20,Male,200,309,5,156,iOS,Neutral,Strongly agree
+22,Female,272,315,6,91,iOS,Neutral,Agree
+26,Male,137,620,12,90,iOS,Neutral,Agree
+28,Male,364,385,6,45,iOS,Agree,Agree
+30,Female,255,90,5,25,iOS,Neutral,Agree
+31,Female,3078,2000,10,312,Android,Neutral,Agree
+32,Female,899,500,6,70,iOS,Agree,Agree
+33,Male,0,200,6,20,Android,Neutral,Agree
+34,Female,1338,82,11,18,iOS,Neutral,Agree
